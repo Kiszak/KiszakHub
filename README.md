@@ -1,2 +1,2 @@
 # KiszakHub
-Pet simulator X script with many functions including gem dupe
+Pet simulator X script with many functions
